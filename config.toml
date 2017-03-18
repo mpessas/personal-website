@@ -4,6 +4,7 @@ baseURL = "http://blog.bessas.me/"
 theme = "black-and-light"
 author = "Apostolos Bessas"
 canonifyurls = true
+googleAnalytics = "UA-26208931-1"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
