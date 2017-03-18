@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "That's weird..."
-baseURL = "https://mpessas.github.io/"
+baseURL = "http://blog.bessas.me/"
 theme = "black-and-light"
 author = "Apostolos Bessas"
 canonifyurls = true
