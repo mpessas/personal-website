@@ -1,3 +1,16 @@
-title = "My New Hugo Site"
-baseURL = "http://example.org/"
 languageCode = "en-us"
+title = "That's weird..."
+baseURL = "https://mpessas.github.io/"
+theme = "black-and-light"
+author = "Apostolos Bessas"
+canonifyurls = true
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "That's weird..."
+
+[[menu.main]]
+    name = "Github"
+    url  = "https://github.com/mpessas/"
