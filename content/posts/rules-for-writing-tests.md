@@ -1,7 +1,6 @@
 ---
 title: "Rules for writing tests"
 date: 2018-11-11T12:07:57+02:00
-draft: true
 ---
 
 When writing tests for a (Python) codebase:
