@@ -1,15 +1,20 @@
-languageCode = "en-us"
+baseURL = "https://blog.bessas.me/"
 title = "That's weird..."
-baseURL = "http://blog.bessas.me/"
+author = "Apostolis Bessas"
+canonifyurls = true
+languageCode = "en-us"
 theme = "black-and-light"
-author = "Apostolos Bessas"
+
 googleAnalytics = "UA-26208931-1"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
 [params]
   sitename = "That's weird..."
+  disableWebFonts = false
 
 [[menu.main]]
     name = "Github"
