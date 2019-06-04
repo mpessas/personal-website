@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
   sitename = "That's weird..."
-  disableWebFonts = false
+  disableWebFonts = true
 
 [[menu.main]]
     name = "Github"
