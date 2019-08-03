@@ -3,19 +3,24 @@ title = "That's weird..."
 author = "Apostolis Bessas"
 canonifyurls = true
 languageCode = "en-us"
-theme = "black-and-light"
-
+theme = "hugo-steam-theme"
 googleAnalytics = "UA-26208931-1"
+
+[privacy]
+  [privacy.googleanalytics]
+    anonymizeIP = true
+
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
-
 [params]
   sitename = "That's weird..."
-  disableWebFonts = true
+  title = "That's weird..."
+  themecolor = "blue"
 
-[[menu.main]]
-    name = "Github"
-    url  = "https://github.com/mpessas/"
+  name = "Apostolis Bessas"
+  bio = ""
+  description = ""
+
+  github = "mpessas"

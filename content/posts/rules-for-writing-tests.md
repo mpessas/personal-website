@@ -1,6 +1,7 @@
 ---
 title: "Rules for writing tests"
 date: 2018-11-11T12:07:57+02:00
+description: "A list of rules for writing automated tests for a Python codebase."
 ---
 
 When writing tests for a (Python) codebase:
