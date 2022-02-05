@@ -4,12 +4,6 @@ author = "Apostolis Bessas"
 canonifyurls = true
 languageCode = "en-us"
 theme = "hugo-steam-theme"
-googleAnalytics = "UA-26208931-1"
-
-[privacy]
-  [privacy.googleanalytics]
-    anonymizeIP = true
-
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
