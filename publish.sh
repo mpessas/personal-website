@@ -7,8 +7,6 @@ hugo # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Go To Public folder
 cd public
-# Remove .DS_Store file
-rm .DS_Store
 # Add changes to git.
 git add -A
 
