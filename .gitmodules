@@ -2,6 +2,6 @@
 	path = public
 	url = git@github.com:mpessas/mpessas.github.io.git
 	branch = master
-[submodule "themes/holy"]
-	path = themes/holy
-	url = https://github.com/serkodev/holy.git
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper

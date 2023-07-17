@@ -1,8 +1,14 @@
 baseURL = 'https://blog.bessas.me/'
 languageCode = 'en-us'
 title = "That's weird..."
-theme = "holy"
+theme = "paper"
 paginate = 10
 
+[author]
+  name = 'Apostolis Bessas'
+
 [params]
-  author = 'Apostolis Bessas'
+  # paper theme
+  color = 'gray'
+  github = 'mpessas'
+  rss = true
