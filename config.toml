@@ -1,20 +1,8 @@
-baseURL = "https://blog.bessas.me/"
+baseURL = 'https://blog.bessas.me/'
+languageCode = 'en-us'
 title = "That's weird..."
-author = "Apostolis Bessas"
-canonifyurls = true
-languageCode = "en-us"
 theme = "holy"
-
-pygmentsstyle       = "bw"
-pygmentscodefences  = true
+paginate = 10
 
 [params]
-  sitename = "That's weird..."
-  title = "That's weird..."
-  themecolor = "blue"
-
-  name = "Apostolis Bessas"
-  bio = ""
-  description = ""
-
-  github = "mpessas"
+  author = 'Apostolis Bessas'
