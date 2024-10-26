@@ -11,3 +11,7 @@ sectionPagesMenu = 'main'
   github = 'mpessas'
   linkedin = 'bessas'
   rss = true
+
+
+[markup.highlight]
+style = 'modus-operandi'
