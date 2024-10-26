@@ -3,12 +3,11 @@ languageCode = 'en-us'
 title = "That's weird..."
 theme = "paper"
 paginate = 10
-
-[author]
-  name = 'Apostolis Bessas'
+sectionPagesMenu = 'main'
 
 [params]
   # paper theme
-  color = 'gray'
+  color = 'linen'
   github = 'mpessas'
+  linkedin = 'bessas'
   rss = true
