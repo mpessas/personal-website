@@ -1,5 +1,5 @@
 ---
-title: "Org Babel Kubernetes"
+title: "Evaluating org code blocks in a Kubernetes pod"
 date: 2024-10-26T08:58:25+03:00
 ---
 
